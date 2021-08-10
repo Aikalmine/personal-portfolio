@@ -16,11 +16,11 @@ class Header extends Component{
                                 <h1 class="name">Muhammad Ali</h1>
                                 <h2 class="desc">Software Enginner</h2>   
                                 <ul class="social list-inline">
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-github-alt"></i></a></li>    
-                                    <li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow"></i></a></li>   
-                                    <li class="list-inline-item last-item"><a href="#"><i class="fab fa-codepen"></i></a></li>                
+                                    <li class="list-inline-item"><a href="https://twitter.com/aikalmine"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/dev-mali/"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li class="list-inline-item"><a href="https://github.com/Aikalmine"><i class="fab fa-github-alt"></i></a></li>    
+                                    <li class="list-inline-item"><a href="https://stackoverflow.com/users/12098590/muhammad-ali"><i class="fab fa-stack-overflow"></i></a></li>   
+                                    <li class="list-inline-item last-item"><a href="https://www.fiverr.com/muhammadali2019?public_mode=true"><i class="fab fa-codepen"></i></a></li>                
                                 </ul> 
                             </div>
                         </div>
