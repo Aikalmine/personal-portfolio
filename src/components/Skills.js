@@ -24,7 +24,7 @@ function Skills(){
                     </div>
                     
                     <div class="item">
-                        <h3 class="level-title">MySql &amp; PostgreSQl<span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i>Expert</span></h3>
+                        <h3 class="level-title">MySQL &amp; PostgreSQL<span class="level-label" data-bs-toggle="tooltip" data-bs-placement="left" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i>Expert</span></h3>
                         <div class="level-bar progress">
                             <div class="progress-bar level-bar-inner" role="progressbar" style={{width: '93%'}} aria-valuenow="93"  aria-valuemin="0" aria-valuemax="96"></div>
                         </div>                                  
