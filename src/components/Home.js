@@ -1,21 +1,16 @@
-import { Component } from "react";
+import { React } from "react";
 import Header from './includes/Header';
 import Footer from './includes/Footer';
+import Main from './Main';
 
-class Home extends Component
-{
-    constructor(props){
-        super(props);
-    } 
-    
-    render() {
-        return (
-          <div>
-              <Header/>
-              <Footer/>
-          </div>
-        );
-    }
+function Home(){
+    return (
+        <div>
+            <Header/>
+            <Main/>
+            <Footer/>
+        </div>
+    );
 }
 
 export default Home;
