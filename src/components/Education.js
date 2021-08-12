@@ -6,11 +6,11 @@ function Education(){
                 <div class="content">
                     <div class="item">                      
                         <h3 class="title"><i class="fas fa-graduation-cap"></i> MSc Computer Science</h3>
-                        <h4 class="university">University College London <span class="year">(2017-2018)</span></h4>
+                        <h4 class="university">Quaid-i-Azam University Islamabad <span class="year">(2015-2017)</span></h4>
                     </div>
                     <div class="item">
                         <h3 class="title"><i class="fas fa-graduation-cap"></i> BSc Computer Science</h3>
-                        <h4 class="university">University of Bristol <span class="year">(2013-2017)</span></h4>
+                        <h4 class="university">Quaid-i-Azam University Islamabad <span class="year">(2012-2014)</span></h4>
                     </div>
                 </div>
             </div>
