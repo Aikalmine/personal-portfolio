@@ -4,8 +4,10 @@ function About(){
             <div class="section-inner shadow-sm rounded">
                 <h2 class="heading">About Me</h2>
                 <div class="content">
-                    <p>Write a brief intro about yourself. It's a good idea to include your personal interests and hobbies as well. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec. Commodo ligula eget dolor. Aenean massa.</p>
-                
+                    <p>
+                        Hi, I am Muhammad Ali,
+                        Ali is a full stack web developer, experience in web based custom solutions. My skills are PHP, Codeigniter, Laravel, JavaScript, Jquery, React, MySQL, PostgreSQL
+                    </p>
                 </div>
             </div>
         </section>

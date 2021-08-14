@@ -1,6 +1,6 @@
 function Blogs(){
     return (
-        <aside class="blog aside section">
+        <aside class="blog aside section hide">
             <div class="section-inner shadow-sm rounded">
                 <h2 class="heading">Latest Blog Posts</h2>
                 <p>You can use Sascha Depold's <a href="https://blogs.dev-mali.com" target="_blank">Vanilla RSS plugin</a> to pull in your blog post feeds.</p>
