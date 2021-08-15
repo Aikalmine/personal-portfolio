@@ -7,7 +7,7 @@ function LatestProjects(){
                         <div class="item featured text-center"> 
                             <div class="featured-image has-ribbon">
                                 <a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/launch-bootstrap-4-template-for-saas-businesses/" target="_blank">
-                                <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-featured.jpg" alt="project name" />
+                                    <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-featured.jpg" alt="project name" />
                                 </a>
                                 <div class="ribbon">
                                     <div class="text">New</div>
@@ -27,41 +27,45 @@ function LatestProjects(){
                             <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-1.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
-                                <h3 class="title"><a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/coderpro-bootstrap-4-startup-template-for-software-projects/" target="_blank">CoderPro - Boootstrap Startup Template For Software Projects</a></h3>
-                                <p class="mb-2">You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.</p>
-                                <p><a class="more-link" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/coderpro-bootstrap-4-startup-template-for-software-projects/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
+                                <h3 class="title">
+                                    <a href="https://explore.walletopia.info/" target="_blank">Explore Walletopia Info</a>
+                                </h3>
+                                <p class="mb-2">
+                                Most men I know purchase more wallets than they really need. I imagine women do that too with purses, or so the media would have me believe. Anyway, most men can’t seem to settle on a single wallet for very long. That’s cool, nothing wrong with that, we all have our vices. I’m short and stout (you might call me fat), and so I like wallets, shoes, pens and watches. Other clothing, due to my build, not so much. Which brings me back to why you see me reviewing wallets….and look for the watches I wear, and pens I use too. I may even convince a few of my kids to help.
+                                </p>
+                                <p><a class="more-link" href="https://explore.walletopia.info/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                             </div>                         
                         </div>
                         
                         <div class="item row">
-                            <a class="col-md-4 col-12" rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devcard-bootstrap-4-vcard-portfolio-template-for-software-developers/" target="_blank">
-                            <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-2.png" alt="project name" />
+                            <a class="col-md-4 col-12" rel="noreferrer" href="https://commandes.beimbertchen.lu/" target="_blank">
+                                <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-2.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
-                                <h3 class="title"><a rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devcard-bootstrap-4-vcard-portfolio-template-for-software-developers/" target="_blank">DevCard - Boootstrap Portfolio Template for Software Developers</a></h3>
+                                <h3 class="title"><a rel="noreferrer" href="https://commandes.beimbertchen.lu/" target="_blank">Commandes Beimbertchen.lu</a></h3>
                                 <p class="mb-2">You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.</p>
-                                <p><a class="more-link" rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devcard-bootstrap-4-vcard-portfolio-template-for-software-developers/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
+                                <p><a class="more-link" rel="noreferrer" href="https://commandes.beimbertchen.lu/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                             </div>                         
                         </div>
                         <div class="item row">
-                            <a class="col-md-4 col-12" rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/" target="_blank">
-                            <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-3.png" alt="project name" />
+                            <a class="col-md-4 col-12" rel="noreferrer" href="https://www.minioffice-druck.de/shop/" target="_blank">
+                                <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-3.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
-                                <h3 class="title"><a rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/" target="_blank">Instance - Boootstrap Portfolio Template for Aspiring Full Stack Developers</a></h3>
-                                <p class="mb-2">You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.</p>
-                                <p><a class="more-link" rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
+                                <h3 class="title"><a rel="noreferrer" href="https://www.minioffice-druck.de/shop/" target="_blank">Minioffice Druck Shop</a></h3>
+                                    <p class="mb-2">We design and print, from brochures, theses, business papers, pads and forms to signs and banners. We can print almost anything that has to do with paper and foil. Turn your project, your idea into a finished object that you can touch.</p>
+                                <p><a class="more-link" rel="noreferrer" href="https://www.minioffice-druck.de/shop/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                             </div>                          
                         </div>
                         
                         <div class="item row">
-                            <a class="col-md-4 col-12" rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/bootstrap-template-for-mobile-apps-nova-pro/" target="_blank">
-                            <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-4.png" alt="project name" />
+                            <a class="col-md-4 col-12" rel="noreferrer" href="http://tmc-performance.co.uk/" target="_blank">
+                                <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-4.png" alt="project name" />
                             </a>
                             <div class="desc col-md-8 col-12">
-                                <h3 class="title"><a rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/bootstrap-template-for-mobile-apps-nova-pro/" target="_blank">Nova Pro - Boootstrap Template for Mobile Startups</a></h3>
+                                <h3 class="title"><a rel="noreferrer" href="http://tmc-performance.co.uk/" target="_blank">Tmc Performance</a></h3>
                                 <p class="mb-2">You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus.</p>
-                                <p><a class="more-link" rel="noreferrer" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/bootstrap-template-for-mobile-apps-nova-pro/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
+                                <p><a class="more-link" rel="noreferrer" href="http://tmc-performance.co.uk/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                             </div>                    
                         </div>                        
                         <div class="item row">
