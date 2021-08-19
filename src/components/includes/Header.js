@@ -24,7 +24,7 @@ function Header(){
                                 <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
                             </div>
                         </div>
-                        <a class="btn btn-cta-primary" href="https://themes.3rdwavemedia.com/" target="_blank"><i class="fas fa-paper-plane"></i> Contact Me</a>        
+                        <a class="btn btn-cta-primary" href="" target="_blank"><i class="fas fa-paper-plane"></i> Contact Me</a>        
                     </div>
                 </div>       
             </div>

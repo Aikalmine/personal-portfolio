@@ -17,7 +17,7 @@ function WorkExperience(){
                     </div>
                     <div class="item">
                         <h3 class="title">Software Engineer - <span class="place"><a href="#">Xyper Technologies</a></span> <span class="year">(Sep-2017 - Jan-2018)</span></h3>
-                        <p>Developing and maintaining web custom solutions.</p>
+                        <p>Developing and maintaining custom web solutions.</p>
                     </div>
                 </div> 
             </div>        
