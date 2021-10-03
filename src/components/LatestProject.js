@@ -4,24 +4,39 @@ function LatestProjects(){
             <div class="section-inner shadow-sm rounded">
                 <h2 class="heading">Latest Projects</h2>
                 <div class="content">                    
-                    <div class="item featured text-center"> 
+                `   <div class="item featured text-center"> 
                         <div class="featured-image has-ribbon">
-                            <a href="https://posecall-isolation.lelisolation-rge.fr/cms/" target="_blank">
-                                <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-featured.png" alt="project name" />
+                            <a href="https://theanalyses.com/" target="_blank">
+                                <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/the-analysis.png" alt="project name" />
                             </a>
                             <div class="ribbon">
                                 <div class="text">New</div>
                             </div>
                         </div>
                         
-                        <h3 class="title mb-3"><a href="https://posecall-isolation.lelisolation-rge.fr/cms/" target="_blank">Posecall Isolation</a></h3>
+                        <h3 class="title mb-3"><a href="https://theanalyses.com/" target="_blank">The Analysis</a></h3>
                             
                         <div class="desc text-start">                                    
-                            <p>It is a content mangement system. Leads insert in sytem through webhooks. Some important functions are user roles mangement, event mangement leads management etc</p>
+                            <p>The analyses is a news-lifestyle platform that informs people all over the globe on everything that matters as news, entertainment, lifestyle, and much more. We’re a team of researchers, who follow and analyses the sports, International Politics, Lifestyle, current information and global scientific issues. We are the only platform that actively engages with its followers, incorporating them in live sessions and debates that become viral.</p>
                         </div>      
-                        <a class="btn btn-cta-secondary" href="https://posecall-isolation.lelisolation-rge.fr/cms/" target="_blank"><i class="fas fa-thumbs-up"></i> Back my project</a>                 
+                        <a class="btn btn-cta-secondary" href="https://theanalyses.com/" target="_blank"><i class="fas fa-thumbs-up"></i> Back my project</a>                 
                     </div>
                     <hr class="divider" />
+                    <div class="item row">
+                        <a class="col-md-4 col-12" href="https://posecall-isolation.lelisolation-rge.fr/cms/" target="_blank">
+                        <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-featured.png" alt="project name" />
+                        </a>
+                        <div class="desc col-md-8 col-12">
+                            <h3 class="title">
+                                <a href="https://posecall-isolation.lelisolation-rge.fr/cms/" target="_blank">Posecall Isolation</a>
+                            </h3>
+                            <p class="mb-2">
+                            It is a content mangement system. Leads insert in sytem through webhooks. Some important functions are user roles mangement, event mangement leads management etc
+                            </p>
+                            <p><a class="more-link" href="https://posecall-isolation.lelisolation-rge.fr/cms/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
+                        </div>                         
+                    </div>
+
                     <div class="item row">
                         <a class="col-md-4 col-12" href="https://explore.walletopia.info/" target="_blank">
                         <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-1.png" alt="project name" />
@@ -36,7 +51,7 @@ function LatestProjects(){
                             <p><a class="more-link" href="https://explore.walletopia.info/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
                         </div>                         
                     </div>
-                    
+
                     <div class="item row">
                         <a class="col-md-4 col-12" rel="noreferrer" href="https://commandes.beimbertchen.lu/" target="_blank">
                             <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/project-2.png" alt="project name" />
